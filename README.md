@@ -10,7 +10,7 @@
   **Discover Opportunities. Apply with Confidence. Achieve Your Dreams.**
 </p>
 
-## 🌟 About GRANTLY
+## 🌟 GRANTLY
 
 GRANTLY is a smart and user-friendly scholarship platform designed to help students discover scholarships, check eligibility, manage applications, and never miss important deadlines.
 

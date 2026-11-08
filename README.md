@@ -67,35 +67,10 @@ npm run dev
 
 ### Gowsalya K. R.
 
-🎓 Computer Science and Engineering Student
 
-💜 Passionate about Web Development and AI
 
-</div>
 
-## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/krgowsalya1406-gif">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gowsalya-k-r-160037363">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Our Mission
-
-**One Platform. Endless Opportunities. Brighter Futures.**
-
-⭐ Star this repository if you like GRANTLY!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
